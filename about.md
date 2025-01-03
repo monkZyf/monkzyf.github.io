@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-Some information about you!
+来，来，来
 
-### More Information
+### 更多
 
-A place to include any other types of information that you'd like to include about yourself.
+好久不见，兄弟
 
-### Contact me
+### 联系一下
 
-[email@domain.com](mailto:email@domain.com)
+[fatalfury_zyf@126.com](mailto:fatalfury_zyf@126.com)
